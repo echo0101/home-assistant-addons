@@ -1,0 +1,17 @@
+{
+  "name": "keybasebot",
+  "version": "0.3",
+  "slug": "keybasebot",
+  "description": "Keybase Bot",
+  "arch": ["armv7", "armhf"],
+  "startup": "application",
+  "boot": "auto",
+  "map": ["config:rw"],
+  "options": {},
+  "homeassistant_api": true,
+  "schema": {
+    "username": "str",
+    "paperKey": "str",
+    "teamName": "str"
+  }
+}
