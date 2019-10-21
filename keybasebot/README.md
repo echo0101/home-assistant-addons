@@ -1,3 +1,5 @@
+# Keybase Bot for Home Assistant
+
 This project is a WIP. This is a prototype/proof of concept. It has not been tested extensively and not suitable for production use-cases.
 
 This has only been compiled for and tested on armv7 (Raspberry Pi) but can easily be compiled for other platforms.
